@@ -2,7 +2,12 @@ body {
   color: white;
   background: black;
   margin: 0px;
-  font-family: "Bitcount Grid Double", system-ui;
+   
+  font-family: "Lobster", sans-serif;
+  
+}
+
+
 }
 
 header {
